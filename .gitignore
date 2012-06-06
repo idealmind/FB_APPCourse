@@ -1,0 +1,7 @@
+# Arquivos do Eclipse #
+.buildpath
+.project
+.settings/
+
+# Arquivos temporários do sistema #
+*~
